@@ -1,6 +1,8 @@
 # granger_causality_test
 Perform a Granger Causality Test on Two Time Series Use granger_causality_test (grangersearch) With (In) R Software
 
+https://www.youtube.com/watch?v=DQULLDe5F70
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
